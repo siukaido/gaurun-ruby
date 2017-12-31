@@ -1,0 +1,14 @@
+{
+    "queue_max": 8192,
+    "queue_usage": 9,
+    "pusher_max": 16,
+    "pusher_count": 0,
+    "ios": {
+        "push_success": 2759,
+        "push_error": 10
+    },
+    "android": {
+        "push_success": 2985,
+        "push_error": 35
+    }
+}
