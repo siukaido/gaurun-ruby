@@ -1,4 +1,4 @@
-require "gaurun/response"
+require "gaurun-ruby/response"
 
 module Gaurun
   class Client
