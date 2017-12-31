@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "gaurun"
+require "gaurun-ruby"
 require 'webmock/rspec'
 require 'support/fake_rack'
 WebMock.disable_net_connect!(allow_localhost: true)
