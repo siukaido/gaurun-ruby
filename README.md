@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/siukaido/gaurun-ruby.svg?branch=master)](https://travis-ci.org/siukaido/gaurun-ruby)
+[![Build Status](https://travis-ci.org/siukaido/gaurun-ruby.svg?branch=master)](https://travis-ci.org/siukaido/gaurun-ruby)
 
 # Gaurun
 
